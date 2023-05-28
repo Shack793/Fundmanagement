@@ -1,2 +1,2 @@
 # https://ifafundmanagement.com/
-A fund management website built for IFA (initiators forex Academy)
+A fund investment website with admin built for IFA (initiators forex Academy)
